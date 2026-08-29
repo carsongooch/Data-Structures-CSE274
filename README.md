@@ -43,7 +43,7 @@ Smaller implementations and exercises used to practice individual data structure
 
 ### Linked Data Structures
 
-Implemented linked-node structures including linked lists, and linked sets, working with node references, insertion, removal, traversal, and collection operations.
+Implemented linked-node structures including linked lists and linked sets, working with node references, insertion, removal, traversal, and collection operations.
 
 ### Hash Tables & Sets
 
