@@ -34,8 +34,8 @@ Smaller implementations and exercises used to practice individual data structure
 - **Node Learning** — Linked-node structures and traversal
 - **Stack Lab** — Stack-based problem solving
 - **Tree Intro** — Binary tree fundamentals
-- **Tree Lab** — Binary search tree set implementation
-- **Tree Practice** — Additional tree exercises 
+- **Tree Lab** — Binary tree implementation and traversal
+- **Tree Practice** — Additional tree exercises
 - **TreeLab2** — Binary search tree set implementation
 
 ### Homework
