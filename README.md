@@ -37,7 +37,16 @@ Smaller implementations and exercises used to practice individual data structure
 - **Tree Lab** — Binary search tree set implementation
 - **Tree Practice** — Additional tree exercises 
 - **TreeLab2** — Binary search tree set implementation
+
+### Homework
+
+Larger assignments combining multiple data structures and algorithms into complete programs.
+
+- **Homework Project 5** — Set and map-based word processing
+- **Homework Project 6** — Deque and linked-list implementations with JUnit testing
+- **Homework Project 7** — Binary tree implementation and JUnit testing
 - **Resizable Array Homework** — Fraction and FractionSet implementations
+- **Resizable Array Set Example** — Resizable array set implementation and node-based practice
 
 ## Selected Work
 
